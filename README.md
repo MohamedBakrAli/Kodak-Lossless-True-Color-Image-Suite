@@ -6,9 +6,9 @@ Prior to this site, they were only available in the Sun Raster format via ftp.  
 	
 ## Samples:
 
-kodim01. 1                     |  kodim02. 2
+kodim 23                     |  kodim 24
 :-------------------------:|:-------------------------:
-![kodim01](PhotoCD\ PCD0992/kodim01.png) |  ![kodim02](PhotoCD\ PCD0992/kodim02.png)
+![kodim01](PhotoCD_PCD0992/23.png) |  ![kodim02](PhotoCD_PCD0992/24.png)
 
 
 ## dataset link: 
